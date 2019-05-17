@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $("div#main").append("Hello");
+    $("div#main").append("Poop");
     // var table = mainDiv.add("table");
 
     // for (i=0; i<3; i++){
